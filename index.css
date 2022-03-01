@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  justify-content: center;
+}
+body {
+  text-align: center;
+  place-items: center;
+  background-color: bisque;
+}
+.container {
+  background-color: aquamarine;
+  border: solid black;
+  justify-self: center;
+  vertical-align: middle;
+  margin: 7rem;
+  border-radius: 12px;
+}
+.result {
+  background-color: brown;
+  text-align: center;
+  color: azure;
+  padding: 1.5rem;
+  font-size: large;
+  font-weight: bold;
+}
+button {
+  background-color: blue;
+  padding: 20px;
+  font-weight: bold;
+  font-size: larger;
+  border: solid black;
+  border-radius: 20px;
+  margin: 12px;
+}
